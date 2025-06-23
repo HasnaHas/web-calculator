@@ -1,1 +1,1 @@
-# web-calculator
+# Simple-web-calculator
